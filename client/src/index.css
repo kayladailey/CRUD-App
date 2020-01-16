@@ -12,3 +12,18 @@ code {
     monospace;
 }
 
+.container{
+  margin: 0 auto;
+}
+
+.flex-row{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+.button {
+	margin-bottom: 0 !important;
+	margin-right: .5rem;
+}
+
